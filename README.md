@@ -1,4 +1,4 @@
-#Smoke Detection System
+Smoke Detection System
 
 This repository contains code for a smoke detection system implemented in Python. The system utilizes machine learning algorithms to detect the presence of smoke based on sensor data.
 Overview
